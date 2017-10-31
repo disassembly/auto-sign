@@ -1,2 +1,3 @@
 # auto-sign
-This is a auto-sign script for bbs.mydigit.cn.
+This is an auto-sign script for bbs.mydigit.cn.
+Another is an auto-sign script for anywlan
