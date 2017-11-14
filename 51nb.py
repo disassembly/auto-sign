@@ -13,7 +13,7 @@ postdata = {
           'questionid':3,#安全问题设置
           'answer':"xxx".encode('gbk'),#问题回答,如果是中文,要以gbk编码
            }
-#以上postdata请问firefox开发者工具获取
+# 以上postdata请问firefox开发者工具获取
 headers = {
 	'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:54.0) Gecko/20100101 Firefox/54.0',
 	'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
