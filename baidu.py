@@ -2,7 +2,10 @@
 import requests
 import re
 
-cookies={'BDUSS': 'get your BDUSS through firefox'}
+cookies={
+    'BAIDUID':'get your BAIDUID through firefox',
+    'BDUSS': 'get your BDUSS through firefox'
+    }
 base_url = "https://www.baidu.com"
 session = requests.session()
 session.cookies.update(cookies)
